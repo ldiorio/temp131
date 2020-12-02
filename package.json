@@ -1,19 +1,19 @@
 {
-  "name": "helloapp",
+  "name": "heroku",
   "version": "1.0.0",
-  "description": "my node app ",
+  "description": "my hello",
   "main": "hello3.js",
   "scripts": {
-  "start": "node hello3.js"
-},
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
-  "type": "git",
-  "url": ""
-},
+    "type": "git",
+    "url": "git+https://github.com/ldiorio/temp131.git"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
-  "url": ""
-},
-  "homepage": ""
+    "url": "https://github.com/ldiorio/temp131/issues"
+  },
+  "homepage": "https://github.com/ldiorio/temp131#readme"
 }
