@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ldiorio/temp131.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ldiorio/temp131/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/ldiorio/temp131#readme"
+  "homepage": ""
 }
