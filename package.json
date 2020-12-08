@@ -16,4 +16,8 @@
   "url": ""
 },
   "homepage": ""
+  "dependencies": {
+    "mongodb": "*"
+    
+  }
 }
